@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 git add up_to_date
 git pull
+=======
+git pull
+git touch up_to_date
+>>>>>>> master
